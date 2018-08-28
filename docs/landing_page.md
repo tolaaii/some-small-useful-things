@@ -1,12 +1,12 @@
 #   Một vài ứng dụng của tôi...
 ## Hẹn giờ tắt máy
-#### Ảnh chụp màn hình
+* #### Ảnh chụp màn hình
 
 ![UI](https://github.com/tolaaii/some-small-useful-things/blob/master/hen_gio_tat_may/Untitled.png)
 
-#### Mã nguồn mở
+* #### Mã nguồn mở
 
-~~~~
+```csharp
 private void timer1_Tick(object sender, EventArgs e)
 {
     if (isStop == false) // Bắt đầu đếm ngược
@@ -30,9 +30,9 @@ private void timer1_Tick(object sender, EventArgs e)
         }
     }
 }
-~~~~
+```
 
-#### Tải về: [Link](https://github.com/tolaaii/some-small-useful-things/blob/master/hen_gio_tat_may/hen_gio_tat_may_v100.rar)  
+* #### Tải về: [Link](https://github.com/tolaaii/some-small-useful-things/blob/master/hen_gio_tat_may/hen_gio_tat_may_v100.rar)  
 
 
 ## Dọn dẹp thư mục Download
