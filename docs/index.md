@@ -1,9 +1,7 @@
 # _Một vài ứng dụng của tôi..._
 ## Hẹn giờ tắt máy
 * #### Ảnh chụp màn hình
-
-![UI](https://github.com/tolaaii/some-small-useful-things/blob/master/hen_gio_tat_may/Untitled.png)
-
+![](https:tolaaii.github.io/some-small-useful-things/hen_gio_tat_may/Untitled.png)
 * #### Mã nguồn mở
 
 ```csharp
