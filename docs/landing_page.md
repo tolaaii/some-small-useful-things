@@ -32,7 +32,7 @@ private void timer1_Tick(object sender, EventArgs e)
 }
 ```
 
-* #### Tải về: [Link](https://github.com/tolaaii/some-small-useful-things/blob/master/hen_gio_tat_may/hen_gio_tat_may_v100.rar)  
+* #### Tải về: [Link 1](https://github.com/tolaaii/some-small-useful-things/blob/master/hen_gio_tat_may/hen_gio_tat_may_v100.rar) hoặc                      [Link 2](https://drive.google.com/open?id=1ao36kSTJcYF8S_dL_rvwDMIAvh41Zcuo)  
 
 
 ## Dọn dẹp thư mục Download
