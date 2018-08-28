@@ -2,7 +2,7 @@
 ## Hẹn giờ tắt máy
 * #### Ảnh chụp màn hình
 
-![UI](https:tolaaii.github.io/some-small-useful-things/hen_gio_tat_may/Untitled.png)
+![UI](https://tolaaii.github.io/some-small-useful-things/hen_gio_tat_may/Untitled.png)
 
 * #### Mã nguồn mở
 
