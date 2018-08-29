@@ -2,7 +2,7 @@
 ## Hẹn giờ tắt máy
 * #### Ảnh chụp màn hình
 
-![UI](http://sv1.upsieutoc.com/2018/08/28/Untitledea2742fb4a09c3f4.png)
+![UI](https://drive.google.com/open?id=1rljyZZankB0HI3Inppp4zXdT_BC92dO-)
 
 * #### Mã nguồn mở
 
@@ -32,7 +32,11 @@ private void timer1_Tick(object sender, EventArgs e)
 }
 ```
 
-* #### Tải về: [Link 1](https://github.com/tolaaii/some-small-useful-things/blob/master/hen_gio_tat_may/hen_gio_tat_may_v100.rar) hoặc                      [Link 2](https://drive.google.com/open?id=1ao36kSTJcYF8S_dL_rvwDMIAvh41Zcuo)  
+* #### Tải về: [Link 1](https://github.com/tolaaii/some-small-useful-things/blob/master/hen_gio_tat_may/hen_gio_tat_may_v102.rar) hoặc                      [Link 2](https://drive.google.com/open?id=1cCNuQZjLx7ElcbyococxZD_qGQR-veKk)  
+* #### Changelog
+> v102: Add icon and fix the notification when time remaining under 30 seconds
+
+> v100: Release
 
 
 ## Dọn dẹp thư mục Download
