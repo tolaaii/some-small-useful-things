@@ -2,7 +2,7 @@
 ## Hẹn giờ tắt máy
 * #### Ảnh chụp màn hình
 
-![UI](https://drive.google.com/open?id=1rljyZZankB0HI3Inppp4zXdT_BC92dO-/view)
+![UI](https://drive.google.com/file/d/1rljyZZankB0HI3Inppp4zXdT_BC92dO-/view)
 
 * #### Mã nguồn mở
 
