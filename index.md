@@ -2,7 +2,7 @@
 ## Hẹn giờ tắt máy
 * #### Ảnh chụp màn hình
 
-![UI](https://i.imgur.com/tyn1KQr.png)
+![UI](https://tolaaii.github.io/some-small-useful-things/images/hen_gio_tat_may_UI.png)
 
 * #### Mã nguồn mở
 
@@ -33,11 +33,7 @@ private void timer1_Tick(object sender, EventArgs e)
 ```
 
 * #### Tải về: [Link 1](https://github.com/tolaaii/some-small-useful-things/blob/master/hen_gio_tat_may/hen_gio_tat_may_v102.rar) hoặc                      [Link 2](https://drive.google.com/open?id=1cCNuQZjLx7ElcbyococxZD_qGQR-veKk)  
-* #### Changelog
-
-> v103: Coming soon  
-> v102: Add icon and fix the notification when time remaining under 30 seconds  
-> v100: Release
+* #### Changelog [View](https://tolaaii.github.io/some-small-useful-things/docs/hengiotatmay-changelog.html)
 
 
 ## Dọn dẹp thư mục Download
