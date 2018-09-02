@@ -3,7 +3,6 @@
 * #### Ảnh chụp màn hình
 ![UI](https://tolaaii.github.io/some-small-useful-things/images/hen_gio_tat_may_UI.png)
 * #### Mã nguồn mở
-
 ```csharp
 private void timer1_Tick(object sender, EventArgs e)
 {
@@ -32,7 +31,6 @@ private void timer1_Tick(object sender, EventArgs e)
 * #### Ảnh chụp màn hình
 ![UI](https://tolaaii.github.io/some-small-useful-things/images/clean_UI.png)
 * #### Hoạt động
-
 ```csharp
 Chương trình không xoá bất kì file nào. 
 Thay vào đó sẽ di chuyển những file có định dạng giống nhau vào cùng 1 folder.
