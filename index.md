@@ -32,8 +32,12 @@ private void timer1_Tick(object sender, EventArgs e)
 * #### Ảnh chụp màn hình
 ![UI](https://tolaaii.github.io/some-small-useful-things/images/clean_UI.png)
 * #### Hoạt động
-> Chương trình không xoá bất kì file nào, thay vào đó sẽ di chuyển những file có định dạng giống nhau vào cùng 1 folder, ví dụ như tất cả file nén sẽ vào folder Compressed, tất cả file ảnh sẽ vào folder Picture.
 
+```csharp
+Chương trình không xoá bất kì file nào. 
+Thay vào đó sẽ di chuyển những file có định dạng giống nhau vào cùng 1 folder.
+Ví dụ: tất cả file nén sẽ vào folder Compressed, tất cả file ảnh sẽ vào folder Picture...
+```
 ![DEMO](https://tolaaii.github.io/some-small-useful-things/images/clean_demo.png)
 
 * #### Tải về: [Coming soon]()
