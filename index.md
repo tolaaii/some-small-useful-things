@@ -1,4 +1,4 @@
-# _Một vài ứng dụng của tôi..._
+# _Một vài thứ nho nhỏ..._
 ## Hẹn giờ tắt máy
 * #### Ảnh chụp màn hình
 ![UI](https://tolaaii.github.io/some-small-useful-things/images/hen_gio_tat_may_UI.png)
