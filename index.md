@@ -2,7 +2,7 @@
 ## Hẹn giờ tắt máy
 * #### Ảnh chụp màn hình
 ![UI](https://tolaaii.github.io/some-small-useful-things/images/hen_gio_tat_may_UI.png)
-* #### Mã nguồn mở
+* #### Cực kì đơn giản
 ```csharp
 private void timer1_Tick(object sender, EventArgs e)
 {
